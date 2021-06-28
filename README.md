@@ -6,6 +6,7 @@
 
 > ### To run the Game, simply double click on the **PYTHON SNAKES.exe**.
 
+![welcome_bg](https://user-images.githubusercontent.com/48170643/123670894-52efc180-d85b-11eb-8cb8-da7eb505fdb8.jpg)
 
 Installing Dependencies:
 <br>
