@@ -1,6 +1,8 @@
 # Snakes 🐍 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 
-**Legacy Snakes Game built with the help of Python. This Game was built using PyGame Engine. The designing part was done with the help of Canva.**
+**Legacy Snakes Game built with the help of Python. This Game was built using PyGame Engine. The designing part was done with the help of Canva and made on pycharm.**![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
+To visit canva - https://www.canva.com/folder/all-designs
 
 ---
 
@@ -24,6 +26,7 @@ Dont Delete Any Files.. IT MAY CRASH THE GAME!
 
 * Follow Me On Instagram at [Pranav Arora](https://www.instagram.com/arorapranav187)
 * Lets Get Connected on Linkedin at [Pranav Arora](https://www.linkedin.com/in/pranav-arora-354b71bb/)
+* MADE BY- Pranav Arora
 
 
 ### ThankYou!
