@@ -1,6 +1,6 @@
 # Snakes 🐍 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 
-**Legacy Snakes Game built with the help of Python. This Game was built using PyGame Engine. The designing part was done with the help of Canva and made on pycharm.**![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+**Legacy Snakes Game built with the help of Python. This Game was built using PyGame Engine. The designing part was done with the help of Canva and made on ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)**
 
 To visit canva - https://www.canva.com/folder/all-designs
 
